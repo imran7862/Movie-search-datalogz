@@ -15,7 +15,8 @@ Movie Search App is a sleek and user-friendly web application that allows users 
 ### **Frontend:**  
 - HTML  
 - CSS (with modern UI/UX enhancements)  
-- JavaScript  
+- JavaScript
+- React.js + Vite
 
 ### **Backend:**  
 - Node.js  
